@@ -1,0 +1,15 @@
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint\bin\Debug\netstandard2.0\StoryPoint.deps.json
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint\bin\Debug\netstandard2.0\StoryPoint.dll
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint\bin\Debug\netstandard2.0\ref\StoryPoint.dll
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint\bin\Debug\netstandard2.0\StoryPoint.pdb
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint\obj\Debug\netstandard2.0\StoryPoint.csprojAssemblyReference.cache
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint\obj\Debug\netstandard2.0\ResultPage.xaml.g.cs
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint\obj\Debug\netstandard2.0\StoryPoint.AssemblyInfoInputs.cache
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint\obj\Debug\netstandard2.0\StoryPoint.AssemblyInfo.cs
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint\obj\Debug\netstandard2.0\StoryPoint.csproj.CoreCompileInputs.cache
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint\obj\Debug\netstandard2.0\StoryPoint.dll
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint\obj\Debug\netstandard2.0\ref\StoryPoint.dll
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint\obj\Debug\netstandard2.0\StoryPoint.pdb

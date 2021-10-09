@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StoryPoint.ResultPage"
+             NavigationPage.HasBackButton="False"
+             Title="Result">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="FillAndExpand"
+                     VerticalOptions="FillAndExpand">
+            <Label x:Name="lblResult"
+                   Text="sonuc"
+                   VerticalOptions="CenterAndExpand"
+                   HorizontalOptions="CenterAndExpand"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"
+               TextColor="#9575CD"
+               FontSize="32"/>
+
+            <Image HorizontalOptions="CenterAndExpand"
+                    VerticalOptions="CenterAndExpand"
+                    BackgroundColor="Transparent"
+                    Source="reload.png"
+                    WidthRequest="100"
+                    HeightRequest="100"
+                   x:Name="Icon">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" />
+                </Image.GestureRecognizers>
+            </Image>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
