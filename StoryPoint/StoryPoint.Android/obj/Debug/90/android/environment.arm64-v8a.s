@@ -3,7 +3,7 @@
 	.section	.rodata.env.str.1,"aMS",@progbits,1
 	.type	.L.env.str.1, @object
 .L.env.str.1:
-	.asciz	"com.companyname.storypoint"
+	.asciz	"com.SMExtraCore.storypoint"
 	.size	.L.env.str.1, 27
 	.section	.data.application_config,"aw",@progbits
 	.type	application_config, @object
@@ -73,7 +73,7 @@ mono_aot_mode_name:
 	.section	.rodata.env.str.8,"aMS",@progbits,1
 	.type	.L.env.str.8, @object
 .L.env.str.8:
-	.asciz	"45908db3-c6b0-4cfe-85d0-71b41292fda1"
+	.asciz	"ceaeea45-eadc-4314-9219-723c998a57fc"
 	.size	.L.env.str.8, 37
 	.section	.rodata.env.str.9,"aMS",@progbits,1
 	.type	.L.env.str.9, @object

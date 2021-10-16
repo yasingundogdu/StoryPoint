@@ -18,11 +18,6 @@ C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\
 C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\lp\39\jl\files.cache
 C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\bin\Debug\StoryPoint.Android.dll
 C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\bin\Debug\StoryPoint.Android.pdb
-C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\bin\Debug\com.companyname.storypoint.apk
-C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\bin\Debug\com.companyname.storypoint.aab
-C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\bin\Debug\com.companyname.storypoint-Signed.aab
-C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\bin\Debug\com.companyname.storypoint-Signed.apk
-C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\bin\Debug\com.companyname.storypoint-Signed.apk.idsig
 C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\bin\Debug\StoryPoint.dll
 C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\bin\Debug\StoryPoint.pdb
 C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\R.txt
@@ -31,10 +26,7 @@ C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\
 C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\StoryPoint.Android.csproj.CopyComplete
 C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\StoryPoint.Android.dll
 C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\StoryPoint.Android.pdb
-C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\android\bin\com.companyname.storypoint.apk
 C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\android\bin\base.zip
-C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\android\bin\com.companyname.storypoint.aab
-C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\android\bin\com.companyname.storypoint.apks
 C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\res\layout\tabbar.xml
 C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\res\layout\toolbar.xml
 C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\res\values\styles.xml
@@ -502,3 +494,12 @@ C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\
 C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\bin\Debug\com.SMExtraCore.storypoint.apk
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\bin\Debug\com.SMExtraCore.storypoint.aab
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\bin\Debug\com.SMExtraCore.storypoint-Signed.aab
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\bin\Debug\com.SMExtraCore.storypoint-Signed.apk
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\bin\Debug\com.SMExtraCore.storypoint-Signed.apk.idsig
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\android\bin\com.SMExtraCore.storypoint.apk
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\android\bin\com.SMExtraCore.storypoint.aab
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\android\bin\com.SMExtraCore.storypoint.apks
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\android\src\com\smextracore\storypoint\R.java

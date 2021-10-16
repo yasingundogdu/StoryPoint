@@ -4,29 +4,48 @@
              x:Class="StoryPoint.ResultPage"
              NavigationPage.HasBackButton="False"
              Title="Result">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+
+            <Style x:Key="LabelStyle" TargetType="Label">
+                <Setter Property="TextColor" Value="Black"/>
+                <Setter Property="FontSize" Value="14"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Order="Primary" Text="Refresh" Command="{Binding RefreshCommand}"/>
+    </ContentPage.ToolbarItems>
+    
     <ContentPage.Content>
         <StackLayout HorizontalOptions="FillAndExpand"
                      VerticalOptions="FillAndExpand">
-            <Label x:Name="lblResult"
-                   Text="sonuc"
-                   VerticalOptions="CenterAndExpand"
-                   HorizontalOptions="CenterAndExpand"
-               HorizontalTextAlignment="Center"
-               VerticalTextAlignment="Center"
-               TextColor="#9575CD"
-               FontSize="32"/>
 
-            <Image HorizontalOptions="CenterAndExpand"
-                    VerticalOptions="CenterAndExpand"
-                    BackgroundColor="Transparent"
-                    Source="reload.png"
-                    WidthRequest="100"
-                    HeightRequest="100"
-                   x:Name="Icon">
-                <Image.GestureRecognizers>
-                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" />
-                </Image.GestureRecognizers>
-            </Image>
+            <ListView ItemsSource="{Binding ResultList}"
+                  x:Name="listView"
+                  CachingStrategy="RecycleElement"
+                      SelectionMode="None"
+                  HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+
+                            <StackLayout VerticalOptions="FillAndExpand"
+                                         HorizontalOptions="FillAndExpand"
+                                         Padding="20">
+
+
+                                <Label Text="{Binding Desc}"
+                                            Style="{StaticResource LabelStyle}"
+                                       VerticalOptions="EndAndExpand"/>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

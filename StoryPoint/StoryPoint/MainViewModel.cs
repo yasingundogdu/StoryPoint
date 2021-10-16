@@ -20,6 +20,7 @@ namespace StoryPoint
             swipeCommand = new Command<SwipedCardEventArgs>(Swipe);
             
             Questions = new ObservableCollection<QuestionModel>();
+            SelectedQuestions = new ObservableCollection<QuestionModel>();
             QuestionsBinding();
         }
 
@@ -45,7 +46,7 @@ namespace StoryPoint
                 _question = value;
 
                 if (_question == null)
-                    Application.Current.MainPage.Navigation.PushAsync(new ResultPage(TotalPoint.ToString()));
+                    Application.Current.MainPage.Navigation.PushAsync(new ResultPage(SelectedQuestions));
 
                 RaisePropertyChanged("Question"); 
             }
@@ -57,6 +58,14 @@ namespace StoryPoint
         {
             get => _questions;
             set { _questions = value; RaisePropertyChanged("Questions"); }
+        }
+
+
+        private ObservableCollection<QuestionModel> _selectedquestions;
+        public ObservableCollection<QuestionModel> SelectedQuestions
+        {
+            get => _selectedquestions;
+            set { _selectedquestions = value; RaisePropertyChanged("SelectedQuestions"); }
         }
 
         private int _totalPoint = 0;
@@ -100,19 +109,12 @@ namespace StoryPoint
         public void Swipe(SwipedCardEventArgs eventArgs)
         {
             if (eventArgs.Direction == SwipeCardDirection.Right)
-                TotalPoint = TotalPoint + ((QuestionModel)(eventArgs.Item)).Point;
+                SelectedQuestions.Add((QuestionModel)(eventArgs.Item));
         }
 
 
         public event PropertyChangedEventHandler PropertyChanged;
         void RaisePropertyChanged([CallerMemberName] string name = null) => PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(name));
 
-    }
-
-    public class QuestionModel
-    {
-        public int ID { get; set; }
-        public string Desc { get; set; }
-        public int Point { get; set; }
     }
 }
