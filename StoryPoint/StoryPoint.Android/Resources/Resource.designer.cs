@@ -9358,6 +9358,9 @@ namespace StoryPoint.Droid
 			// aapt resource value: 0x7F0C0004
 			public const int launcher_foreground = 2131492868;
 			
+			// aapt resource value: 0x7F0C0005
+			public const int splash = 2131492869;
+			
 			static Mipmap()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -10250,6 +10253,9 @@ namespace StoryPoint.Droid
 			
 			// aapt resource value: 0x7F0E01F9
 			public const int scrollViewTheme = 2131624441;
+			
+			// aapt resource value: 0x7F0E01FA
+			public const int splashscreen = 2131624442;
 			
 			// aapt resource value: 0x7F0E00E7
 			public const int TextAppearance_AppCompat = 2131624167;

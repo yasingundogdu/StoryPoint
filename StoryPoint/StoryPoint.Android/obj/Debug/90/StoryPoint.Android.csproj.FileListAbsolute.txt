@@ -503,3 +503,9 @@ C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\
 C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\android\bin\com.SMExtraCore.storypoint.aab
 C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\android\bin\com.SMExtraCore.storypoint.apks
 C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\android\src\com\smextracore\storypoint\R.java
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\res\mipmap-hdpi\splash.png
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\res\mipmap-mdpi\splash.png
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\res\mipmap-xhdpi\splash.png
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\res\mipmap-xxhdpi\splash.png
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\res\mipmap-xxxhdpi\splash.png
+C:\Users\ysngnd\source\repos\StoryPoint\StoryPoint\StoryPoint.Android\obj\Debug\90\android\src\crc64c14db3f7359a5f7c\SplashActivity.java

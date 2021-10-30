@@ -1283,6 +1283,7 @@ int mipmap icon_adaptive_back 0x7f0c0001
 int mipmap icon_adaptive_fore 0x7f0c0002
 int mipmap icon_round 0x7f0c0003
 int mipmap launcher_foreground 0x7f0c0004
+int mipmap splash 0x7f0c0005
 int string abc_action_bar_home_description 0x7f0d0000
 int string abc_action_bar_up_description 0x7f0d0001
 int string abc_action_menu_overflow_description 0x7f0d0002
@@ -1844,6 +1845,7 @@ int style Widget_Support_CoordinatorLayout 0x7f0e01f6
 int style collectionViewTheme 0x7f0e01f7
 int style scrollViewScrollBars 0x7f0e01f8
 int style scrollViewTheme 0x7f0e01f9
+int style splashscreen 0x7f0e01fa
 int[] styleable ActionBar { 0x7f030031, 0x7f030032, 0x7f030033, 0x7f030092, 0x7f030093, 0x7f030094, 0x7f030095, 0x7f030096, 0x7f030097, 0x7f0300a5, 0x7f0300aa, 0x7f0300ab, 0x7f0300b6, 0x7f0300e0, 0x7f0300e5, 0x7f0300ea, 0x7f0300eb, 0x7f0300ed, 0x7f0300f7, 0x7f030101, 0x7f030124, 0x7f030130, 0x7f030141, 0x7f030145, 0x7f030146, 0x7f030175, 0x7f030178, 0x7f0301bd, 0x7f0301c7 }
 int styleable ActionBar_background 0
 int styleable ActionBar_backgroundSplit 1

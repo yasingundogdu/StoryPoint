@@ -4902,6 +4902,7 @@ public final class R {
     public static final int icon_adaptive_fore=0x7f0c0002;
     public static final int icon_round=0x7f0c0003;
     public static final int launcher_foreground=0x7f0c0004;
+    public static final int splash=0x7f0c0005;
   }
   public static final class string {
     public static final int abc_action_bar_home_description=0x7f0d0000;
@@ -5479,6 +5480,7 @@ public final class R {
      */
     public static final int scrollViewScrollBars=0x7f0e01f8;
     public static final int scrollViewTheme=0x7f0e01f9;
+    public static final int splashscreen=0x7f0e01fa;
   }
   public static final class styleable {
     /**
